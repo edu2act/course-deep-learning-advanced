@@ -1,15 +1,9 @@
 # course-deep-learning-advanced
 
-
-
-- 正则化与L2参数范数正则化
-- 提前终止算法
-- 神经网络的Bagging集成
-- Dropout
-- 学习与优化
-- AlexNet
-- VggNet
-- NIN
-- GoogLeNet
-- ResNet
+* 深度学习中的优化
+* 深度学习中的正则化
+* 经典神经网络模型（一）
+* 经典神经网络模型（二）
+* 目标检测
+* 循环神经网络
 
