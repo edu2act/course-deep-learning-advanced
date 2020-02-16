@@ -2,7 +2,10 @@
 
 # course-deep-learning-advanced
 
-课程内容如下：
+* [课程大纲](./docs/深度学习教学大纲.docx)
+* [进度计划](./docs/深度学习教学进度表.docx)
+
+## 课程内容 ##
 
 1. [初识深度学习](./ch01-overview/ch01-overview.ipynb)
 2. [Rosenblatt感知器](./ch02-rosenblatt_perceptron/ch02-rosenblatt_perceptron.ipynb)
